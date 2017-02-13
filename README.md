@@ -1,6 +1,6 @@
 Rotator
 =====================
-Rotator is a data analysis interface that enables flexible multisensory data display. For more information, consult the project page located at resenv.media.mit.edu/rotator. 
+Rotator is a data analysis interface that enables flexible multisensory data display. For more information, consult the project page located at http://resenv.media.mit.edu/rotator. 
 
 Note: This interface is not currently intended for use by others. Therefore, the instructions below are minimal. If you are interested in learning more about the Rotator platform, or using it for your own data, please consult me directly.
  
