@@ -12,9 +12,9 @@ npm start
 open http://localhost:3000
 ```
 ### Testing Interface 
-+Drag appropriately formatted files into drag-and-drop interface
-+Drag audio and visual windows around the node map 
-+Adjust data-to-audio settings using the left-hand control menu (click on the hamburger icon in the top left) 
++ Drag appropriately formatted files into drag-and-drop interface
++ Drag audio and visual windows around the node map 
++ Adjust data-to-audio settings using the left-hand control menu (click on the hamburger icon in the top left) 
 
 
 
